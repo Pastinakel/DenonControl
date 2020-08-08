@@ -1,4 +1,6 @@
 # DenonControl
 A set of scripts to control a Denon AVR
 
-## Testing
+## Based on
+Domoticz Denon Wiki Page
+https://www.domoticz.com/wiki/Denon
